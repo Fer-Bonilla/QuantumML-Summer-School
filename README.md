@@ -4,9 +4,7 @@ Repository for documents and notebooks for the Quantum Machine Learning Summer S
 
 ## Lab 1 Quantum Computing Operations and Algorithms
 
-In this lab, you will learn how to construct quantum states and circuits, and run a simple quantum algorithm. The corresponding video can be found here.
-
-It consists of the following exercises:
+Lab1 for basic quantum states and circuits development:
 
 - Quantum States and Circuits
 - Graded Exercise 1-1: Bit Flip
